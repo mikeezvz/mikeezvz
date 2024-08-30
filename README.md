@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate frontend & backend developer from Zurich, Switzerland</h3>
 
-- 🔭 I’m currently working on **ImageGallery**
+- 🔭 I’m currently working on **ImageGallery(https://github.com/EricLuec/ImageGallery)**
 
 - 🌱 I’m currently learning **Ruby on Rails, Javascript**
 
